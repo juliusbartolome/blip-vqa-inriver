@@ -1,0 +1,52 @@
+[
+  {
+    "name": "alkosto.com",
+    "in_stock": "https://img001.prntscr.com/file/img001/Rd5e6SJARZm9OplHevI54A.png",
+    "out_of_stock": "https://img001.prntscr.com/file/img001/v3JQkBjSQ2KzmNDFJf8DfA.png"
+  },
+  {
+    "name": "alza.cz",
+    "in_stock": "https://img001.prntscr.com/file/img001/RXWow4UKTDKXySEshfV6Cg.png",
+    "out_of_stock": "https://img001.prntscr.com/file/img001/6aWiJaT8Q5SipHDyhM20JA.png"
+  },
+  {
+    "name": "bestbuy.com",
+    "in_stock": "https://img001.prntscr.com/file/img001/OoQc6lVtRIimKpk2ujMJmQ.png",
+    "out_of_stock": "https://img001.prntscr.com/file/img001/_etLeg4RTheIC0i0hog5rQ.png"
+  },
+  {
+    "name": "biccamera.com",
+    "in_stock": "https://img001.prntscr.com/file/img001/zTqu8uVLTfuB8rXvjZ_hhg.png",
+    "out_of_stock": "https://img001.prntscr.com/file/img001/T0K7_Hu8SjWScLs8lwh6Gg.png"
+  },
+  {
+    "name": "coolblue.nl",
+    "in_stock": "https://img001.prntscr.com/file/img001/X8pO0Eg8RNOq_TcuqWuyTQ.png",
+    "out_of_stock": "https://img001.prntscr.com/file/img001/eOZK9qagSSSX1nBNEKh9WQ.png"
+  },
+  {
+    "name": "costco.com",
+    "in_stock": "https://img001.prntscr.com/file/img001/PFu5iOsNQ0ub-5jmkGNTpQ.png",
+    "out_of_stock": "https://img001.prntscr.com/file/img001/QpBCHykYT9aZvCkpAl4ulA.png"
+  },
+  {
+    "name": "digitec.ch.de",
+    "in_stock": "https://img001.prntscr.com/file/img001/Fw3thD-hQl6Ue9H9mOsBbg.png",
+    "out_of_stock": "https://img001.prntscr.com/file/img001/ntbasfN-SwabOQdVijQ5Nw.png"
+  },
+  {
+    "name": "yodobashi.com",
+    "in_stock": "https://img001.prntscr.com/file/img001/BoRZpLU4Tf2qyf1tW1EyBw.png",
+    "out_of_stock": "https://img001.prntscr.com/file/img001/gkpdOkekQ5G8uqPopqJFLg.png"
+  },
+  {
+    "name": "yamada.denkiweb.com",
+    "in_stock": "https://img001.prntscr.com/file/img001/Tm5tU2wQRxKwY2VfJlMIQg.png",
+    "out_of_stock": "https://img001.prntscr.com/file/img001/PU9IgJ9OSU6q5R3S1sT0VA.png"
+  },
+  {
+    "name": "walmart.com",
+    "in_stock": "https://img001.prntscr.com/file/img001/MIdt0qBHR6O6zgUusrzeaQ.png",
+    "out_of_stock": "https://img001.prntscr.com/file/img001/D7HgNXh5Rq-IwVHVi8Ulig.png"
+  }
+]
