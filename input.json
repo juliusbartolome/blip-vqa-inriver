@@ -48,55 +48,5 @@
     "name": "walmart.com",
     "in_stock": "https://img001.prntscr.com/file/img001/MIdt0qBHR6O6zgUusrzeaQ.png",
     "out_of_stock": "https://img001.prntscr.com/file/img001/D7HgNXh5Rq-IwVHVi8Ulig.png"
-  },
-  {
-    "name": "casasbahia.com.br",
-    "in_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@MSFT201908007@casasbahia_com_br.png",
-    "out_of_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@PRODUCT_12d1c4c6-3b98-48ad-b807-d64cfe35335c@casasbahia_com_br.png"
-  },
-  {
-    "name": "magazineluiza.com.br",
-    "in_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@PRODUCT_1084f626-549c-4fc6-8eb3-bcf5113024d2@magazineluiza_com_br.png",
-    "out_of_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@PRODUCT_55273c16-4a89-4951-bab0-1e408a393550@magazineluiza_com_br.png"
-  },
-  {
-    "name": "pbtech.co.nz",
-    "in_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@PRODUCT_099b5fc5-d2ad-4a1e-a9de-fd72b5887231@pbtech_co_nz.png",
-    "out_of_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_08@PRODUCT_32fd784a-34ab-4848-96bd-5a48aa9aef97@pbtech_co_nz.png"
-  },
-  {
-    "name": "alza.cz",
-    "in_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@MSFT202002009@alza_cz.png",
-    "out_of_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@MSFT202004129@alza_cz.png"
-  },
-  {
-    "name": "staple.ca",
-    "in_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@PRODUCT_0b5c0364-6815-43ce-a89a-1581e9d6e69d@staples_ca.png",
-    "out_of_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@PRODUCT_51df222c-2ec6-493c-84ab-fc4945d7b8d4@staples_ca.png"
-  },
-  {
-    "name": "amazon.fr",
-    "in_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@MSFT201908008@amazon_fr.png",
-    "out_of_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@PRODUCT_32fd784a-34ab-4848-96bd-5a48aa9aef97@amazon_fr.png"
-  },
-  {
-    "name": "otto.de",
-    "in_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@MSFT202002012@otto_de.png",
-    "out_of_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@MSFT201908009@otto_de.png"
-  },
-  {
-    "name": "currys.co.uk",
-    "in_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@PRODUCT_11a738e7-f796-4344-adb1-b1ab6bf01c29@currys_co_uk.png",
-    "out_of_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@PRODUCT_5f46fa6d-7c7a-4007-92c6-927a0b10ccd5@currys_co_uk.png"
-  },
-  {
-    "name": "ksdenki.com",
-    "in_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@PRODUCT_141c99fa-10b0-4593-a2a9-bdc78ab1e181@ksdenki_com.png",
-    "out_of_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_05@PRODUCT_c4764e42-e0f2-4ce5-a87e-1c244663290c@ksdenki_com.png"
-  },
-  {
-    "name": "edion.com",
-    "in_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@MSFT201908007@edion_com.png",
-    "out_of_stock": "https://msdsawebshots.blob.core.windows.net/ms-webshots/WEBSHOT@2024@week_07@PRODUCT_e5062129-782b-427b-8b46-f293400537d9@edion_com.png"
   }
 ]
